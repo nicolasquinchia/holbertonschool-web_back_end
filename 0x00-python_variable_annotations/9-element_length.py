@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Iterable Object
+"""
 from typing import Sequence, Tuple, Iterable, List
 
 
