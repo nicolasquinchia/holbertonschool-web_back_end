@@ -1,0 +1,2 @@
+//  Script that create a database or uses the database my_db (Task 1)
+use my_db
